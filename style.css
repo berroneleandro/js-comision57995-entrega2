@@ -1,0 +1,45 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Fjalla+One&family=Poppins:ital,wght@0,200;0,300;1,200&family=Tilt+Prism&display=swap');
+
+
+nav div a {
+
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 18px;
+
+}
+
+.contenedorMain{
+    background-image:url("img/imagen1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 800px;
+    
+
+}
+
+.mesa{
+    margin: 5px;
+    padding: 5px;
+    align-items: center;
+    text-align: center;
+    width: auto;
+    height: auto;
+    display: inline-block;
+    border: 3px black solid;
+    background-color: white;
+    box-shadow: 10px 10px 8px 10px #292828;
+    border-radius: 10px;
+    
+}
+.form-floating{
+    padding: 2px;
+}
+button {
+    padding: 5px;
+}
+.input-group {
+    padding: 5px;
+    
+}

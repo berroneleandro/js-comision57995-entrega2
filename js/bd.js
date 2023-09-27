@@ -73,3 +73,48 @@ const platosDeComida = [
     }
 ];
 
+
+let bebidas = [
+    {
+      nombre: "Coca-    ",
+      precio: 2.5,
+      stock: 10,
+      NumeroDeOrden:1
+    },
+    {
+      nombre: "Agua Mineral",
+      precio: 1.0,
+      stock: 20,
+      NumeroDeOrden:2
+    },
+    {
+      nombre: "Jugo de Naranja",
+      precio: 3.0,
+      stock: 15,
+      NumeroDeOrden:3
+    },
+    {
+      nombre: "Café",
+      precio: 2.0,
+      stock: 30,
+      NumeroDeOrden:4
+    },
+    {
+      nombre: "Té",
+      precio: 1.5,
+      stock: 25,
+      NumeroDeOrden:5
+    },
+    {
+      nombre: "Cerveza",
+      precio: 4.0,
+      stock: 12,
+      NumeroDeOrden:6
+    },
+    {
+      nombre: "vino",
+      precio: 2.0,
+      stock: 18,
+      NumeroDeOrden:7
+    }
+  ];
