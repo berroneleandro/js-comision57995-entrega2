@@ -34,7 +34,7 @@ const platosDeComida = [
         precio: 9.99,
         stock: 22,
         NumeroDeOrden:6
-    },
+    }/* ,
     {
         nombre: "Parrillada",
         precio: 24.99,
@@ -70,7 +70,7 @@ const platosDeComida = [
         precio: 5.99,
         stock: 20,
         NumeroDeOrden:12
-    }
+    } */
 ];
 
 
